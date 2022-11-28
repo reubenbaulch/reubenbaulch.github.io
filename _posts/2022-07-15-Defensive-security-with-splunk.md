@@ -24,11 +24,11 @@ Splunk: {Reporting, Alerting, Dashboards}
 * Baselining 
 * SIEMS 
 * Splunk: 
-** Splunk Processing Language (SPL) 
-** Reporting 
-** Alerting 
-** Dashboards 
-** Add-on applications (Splunk security essentials and Machine learning toolkit) 
+    * Splunk Processing Language (SPL) 
+    * Reporting 
+    * Alerting 
+    * Dashboards 
+    * Add-on applications (Splunk security essentials and Machine learning toolkit) 
  
 ### Project requirements
  
