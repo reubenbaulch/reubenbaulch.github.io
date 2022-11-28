@@ -41,4 +41,4 @@ Manually tested each identified vulnerability and used automated tools to exploi
 
 ### Reporting
 
-Once exploitation was completed and all objectives had been completed, I drafted a report as a final deliverable to the customer. The penetration testing report for Rekall corporation can be seen [here](/Pentest.docx.pdf).
+Once exploitation was completed and all objectives had been completed, I drafted a report as a final deliverable to the customer. The penetration testing report for Rekall corporation can be seen [here](/Pentest.pdf).
