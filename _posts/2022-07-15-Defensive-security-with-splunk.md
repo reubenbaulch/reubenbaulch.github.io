@@ -57,7 +57,7 @@ Thus, my thresholds were accurate as they were triggered for the increase in 404
  
 ### Attack summary
 
-`![title](/WindowsServerMonitoring.png))`
+![title](/WindowsServerMonitoring.png)
  
 The dashboard before the attack showed standard, expected data and was quite clearly showing no outliers
 When the attack was implemented, the dashboards visibly showed the major spikes for both the user logged in and the activity they were trying to access
