@@ -56,6 +56,8 @@ After the attack, my alerts were triggered on the suspicious volume of failed ac
 Thus, my thresholds were accurate as they were triggered for the increase in 404 response code levels correctly and would not have triggered a false positive. The same can be said for the increase in HTTP POST activity also.
  
 ### Attack summary
+
+`![title](/WindowsServerMonitoring.png))`
  
 The dashboard before the attack showed standard, expected data and was quite clearly showing no outliers
 When the attack was implemented, the dashboards visibly showed the major spikes for both the user logged in and the activity they were trying to access
