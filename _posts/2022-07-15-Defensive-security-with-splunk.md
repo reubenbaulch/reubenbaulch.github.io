@@ -1,8 +1,6 @@
 ---
 title:  "Defensive security with Splunk"
-mathjax: true
 layout: post
-categories: media
 ---
 
 I used Splunk to design a custom monitoring environment to protect a fictional organisation. I created custom reports, alerts, dashboards, and add-on apps to protect the company. This included:
