@@ -21,11 +21,11 @@ Following this, I generated a new private key for the CA to issue certificates t
 
 Using windows encrypting content feature, I encrypted test data with EFS. I then used Microsoft's management console to add a snap-in certificate under the current user. Next, I exported the certificate using the certificate export wizard in p12 format.
 
-![title](/WindowsServerMonitoring.png)
+![title](/pics/certificate-server/CertificateExportWizard.png)
 
 After confirming the password, I selected tripleDES-SHA1 for encryption and exported the certificate. I then followed the same steps for exporting the public key.
 
-![title](/WindowsServerMonitoring.png)
+![title](/pics/certificate-server/CertificateExportWizard2.png)
 
 ### Revoking the EFS certificate
 
