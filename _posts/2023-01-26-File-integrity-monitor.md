@@ -9,7 +9,7 @@ A file integrity monitor (FIM) is a powerful security tool that detects and aler
 
 My code is specifically designed to detect changes to files and configurations by utilizing the following process:
 
-![title](/AnalysingAttacksDashboard.png)
+![title](/FIM Flow Chart.jpg)
 
 * The user is prompted to decide whether they want to collect a new baseline or begin monitoring files with a saved baseline.
 * If collecting a new baseline, any existing one is deleted and the process begins by calculating the hashes of the target files in a specific directory. The calculated hash is then written to the baseline.txt file, creating the new baseline.
