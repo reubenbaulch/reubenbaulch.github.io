@@ -18,4 +18,4 @@ My code is specifically designed to detect changes to files and configurations b
 * If monitoring with a saved baseline, the files and their corresponding hash are loaded from the baseline and stored in a dictionary.
 * The files are then continuously monitored against the saved baseline by comparing the calculated hashes against the dictionary. This allows for the detection of new files, changes to existing files, and deleted files.
 
-You can find the code repository [here](/https://github.com/reubenbaulch/fileIntegrityMonitor).
+You can find the code repository [here](https://github.com/reubenbaulch/fileIntegrityMonitor).
