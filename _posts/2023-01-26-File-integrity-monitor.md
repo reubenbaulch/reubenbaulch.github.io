@@ -9,7 +9,7 @@ A file integrity monitor (FIM) is a powerful security tool that detects and aler
 
 My code is specifically designed to detect changes to files and configurations by utilizing the following process:
 
-![title](/FIM Flow Chart.jpg)
+![title](/fim-chart.jpg)
 
 ### The step by step process:
 
