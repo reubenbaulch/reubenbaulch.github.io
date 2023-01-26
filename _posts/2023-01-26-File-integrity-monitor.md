@@ -11,6 +11,8 @@ My code is specifically designed to detect changes to files and configurations b
 
 ![title](/FIM Flow Chart.jpg)
 
+### The step by step process:
+
 * The user is prompted to decide whether they want to collect a new baseline or begin monitoring files with a saved baseline.
 * If collecting a new baseline, any existing one is deleted and the process begins by calculating the hashes of the target files in a specific directory. The calculated hash is then written to the baseline.txt file, creating the new baseline.
 * If monitoring with a saved baseline, the files and their corresponding hash are loaded from the baseline and stored in a dictionary.
