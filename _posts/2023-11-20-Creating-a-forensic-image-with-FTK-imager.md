@@ -22,7 +22,7 @@ A forensic image includes everything, including your files and even deleted file
 
 Moreover, partitions created within a hard drive or volume may have what is known as partition slack—additional leftover space within that partition that could also harbour useful data.
 
-![title](/pics/certificate-server/writeblocker1.png)
+![title](/pics/certificate-server/ftk1.png)
 
 ### Write blocker
 
@@ -38,11 +38,11 @@ Open FTK Imager, accessible via the ‘create disk image’ icon or the file men
 
 Choose the physical drive option over logical drives for comprehensive data capture and add the image destination, providing details such as case number, date, and unique descriptors.
 
-![title](/pics/certificate-server/writeblocker1.png)
+![title](/pics/certificate-server/ftk2.png)
 
 Choose the E01 image type, commonly used in forensic toolkits like Encase. Specify the case number, date, and evidence number for proper documentation. Add a unique description for reference, including details like device make, brand, and serial number.
 
-![title](/pics/certificate-server/writeblocker1.png)
+![title](/pics/certificate-server/ftk3.png)
 
 Next, assign the destination for the forensic image, ensuring it has enough space compared to the source.
 
@@ -52,6 +52,6 @@ Check the ‘verify images after they are created’ option for hash value verif
 
 After completion, review the verification results to ensure the hash values match, confirming the integrity of the forensic image.
 
-![title](/pics/certificate-server/writeblocker1.png)
+![title](/pics/certificate-server/ftk4.png)
 
 Validate the forensic tool by considering a secondary tool to image the same source media and confirm no damage data blocks within the USB through the bad blocks list. The forensic image is now ready for further analysis using forensic tools in subsequent steps.
